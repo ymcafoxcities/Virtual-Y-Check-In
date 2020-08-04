@@ -1,0 +1,5 @@
+<form method="post" action="https://operations.daxko.com/Online/xxxx/CheckIn/submit">
+<input type="hidden" name="mode" value="custom" />
+Enter barcode: <input type="text" name="barcode" />
+<button type="submit">Submit</button>
+</form>
